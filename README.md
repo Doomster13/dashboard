@@ -37,7 +37,7 @@ Make sure the following are installed on your machine before proceeding:
 
 ```bash
 git clone https://github.com/Doomster13/dashboard
-cd procurement-copilot
+cd dashboard
 ```
 
 Or download and extract the ZIP, then open a terminal in the project folder.
