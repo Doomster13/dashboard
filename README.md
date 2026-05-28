@@ -36,7 +36,7 @@ Make sure the following are installed on your machine before proceeding:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/procurement-copilot.git
+git clone https://github.com/Doomster13/dashboard
 cd procurement-copilot
 ```
 
